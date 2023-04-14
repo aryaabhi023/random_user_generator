@@ -1,0 +1,44 @@
+body {
+  background-color: steelblue;
+  color: white;
+}
+
+.container {
+  background-color: rgb(74, 7, 142);
+  border: 3px solid transparent;
+  margin: auto;
+  margin-top: 50px;
+  padding: 20px;
+  box-shadow: 6px 6px 6px black;
+  max-width: fit-content;
+}
+
+h1 {
+  text-align: center;
+  font-size: x-large;
+  text-shadow: 1px 2px 3px rgb(139, 213, 237);
+}
+
+.btn {
+  width: 100%;
+  font-size: large;
+  padding: 9px;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  background-color: black;
+  text-align: center;
+}
+img {
+  border: none;
+  border-radius: 20px;
+  display: flex;
+  margin-top: 12px;
+  margin-right: 10px;
+  width: 100px;
+  height: 100px;
+}
+span {
+  font-style: italic;
+  font-size: 18px;
+}
